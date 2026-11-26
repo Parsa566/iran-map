@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "نقشه ایران",
+    "slug": "iran-map",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.parsa.iranmap"
+    }
+  }
+}
